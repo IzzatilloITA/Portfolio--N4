@@ -53,6 +53,11 @@ header{
     width: 180px;
     height: 40px;
     margin-top: 10px;
+    color: #ffffff;
+    background-color: #919192;
+    border: 0;
+    border-radius: 9px;
+    font-size: 16px;
 }
 .l_con{
     width: 640px;
