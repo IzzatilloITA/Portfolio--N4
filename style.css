@@ -828,4 +828,7 @@ span{
     .r-name ,.r-price,.r-depiction,.r-price,.r-rdes{
         width: 70%;
     }
+    .foot-logo{
+        margin: auto;
+    }
   }
